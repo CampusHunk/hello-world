@@ -1,3 +1,2 @@
 # hello-world
-This repository is for practicing the Github Flow
-Day 1 of 30 days of coding
+This repository serves as a resource for mastering the GitHub Flow, marking Day 1 of the 30 Days of Coding challenge. 
